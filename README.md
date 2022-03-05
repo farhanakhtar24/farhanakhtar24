@@ -1,10 +1,8 @@
 Hi there 👋
 
-- :zap: I love math, programming, data science, and books
+- :zap: I love math, programming, gaming , and .
 - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- :computer: I am currently pursuing my Bachelor's of Technology in Electrical Engineering , from the university of Jamia Milia Islamia.
 - 📫 How to find me: 
-  - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
-  - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
+  - :camera: [Instagram](https://www.instagram.com/_md.farhan.akhtar_/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/mohd-farhan-akhtar-193194202/)
