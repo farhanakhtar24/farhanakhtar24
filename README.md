@@ -6,3 +6,6 @@ Hi there 👋
 - 📫 How to find me: 
   - :camera: [Instagram](https://www.instagram.com/_md.farhan.akhtar_/)
   - :office: [LinkedIn](https://www.linkedin.com/in/mohd-farhan-akhtar-193194202/)
+
+
+[![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=farhanakhtar24&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
