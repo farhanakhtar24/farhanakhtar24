@@ -1,6 +1,6 @@
 Hi there 👋
 
-- :zap: I love math, programming, gaming , and .
+- :zap: I love math, programming and gaming.
 - 🌱 I’m addicted to learning and growing every day
 - :computer: I am currently pursuing my Bachelor's of Technology in Electrical Engineering , from the university of Jamia Millia Islamia.
 - 📫 How to find me: 
