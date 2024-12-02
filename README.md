@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanakhtar24" alt="farhanakhtar24" /></a> </p>
 
-- 🔭 I’m currently working on **Building PLSE.ai**
+- 🔭 I’m currently cooking on **Glide**
 
 - 🌱 I’m currently learning **GoLang, System Design**
 
