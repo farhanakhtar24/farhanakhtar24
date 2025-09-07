@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanakhtar24" alt="farhanakhtar24" /></a> </p>
 
-- 🔭 I’m currently cooking on **Glide**
+- 🔭 I’m currently cooking on **Pulse**
 
-- 🌱 I’m currently learning **GoLang, System Design**
+- 🌱 I’m currently learning **GoLang, System Design, building somethign of my own**
 
 - 👨‍💻 All of my projects are available at [https://farhanakhtar24.vercel.app/](https://farhanakhtar24.vercel.app/)
 
